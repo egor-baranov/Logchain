@@ -1,3 +1,3 @@
 # Logchain
 
-Binance-based crypto monitoring & comparing application.
+Coingecko-based crypto monitoring & comparing multiplatform application.
